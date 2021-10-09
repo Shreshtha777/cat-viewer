@@ -10,4 +10,4 @@ Cat viewer using <a href="https://thecatapi.com/">The Cat API</a>. It was create
 - AJAX
 
 ## Demo
-Here is a working live demo: 
+Here is a working live demo: https://shreshtha777.github.io/cat-viewer/
